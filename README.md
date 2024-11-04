@@ -1,1 +1,2 @@
-napište mi sem téma seminární práce
+Komunikační software // prezentační software
+
