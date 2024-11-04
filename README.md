@@ -1,3 +1,3 @@
-Komunikační software // prezentační software
+Komunikační software
 
 téma schvaluji
