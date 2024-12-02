@@ -1,3 +1,7 @@
+
+**schvaluji Hana Vojáčková**
+
+
 Komunikační software
 
 téma schvaluji
