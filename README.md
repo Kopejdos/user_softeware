@@ -20,7 +20,6 @@ Obsah
 1	Úvod
 V dnešní době je komunikační software téměř všudypřítomný. Nabízí rychlý způsob komunikace na krátké i dlouhé vzdálenosti, a to prostřednictvím textu nebo hlasových hovorů. Umožňuje nám reprezentovat sebe tak, jak bychom chtěli být vnímáni, což může mít jak pozitivní, tak negativní dopady na naše sociální vztahy. Tento dokument se zaměřuje na nejběžnější platformy, které obecně představují současné komunikační aplikace, jejich historii, různé případy využití a rozšíření. Také popisuje data sesbíraná prostřednictvím dotazníkového šetření a nabízí grafy, které vysvětlují, jak tento software ovlivňuje naši každodenní realitu.
 
- 
 2	Hlavní část
  2.1	Základy komunikačních softwarů
   2.1.1	Typy
