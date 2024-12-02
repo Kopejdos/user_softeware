@@ -4,7 +4,7 @@
 
 Komunikační software
 
-téma schvaluji
+téma schvaluji HV
 
 Obsah
 1.	Úvod
